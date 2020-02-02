@@ -7,4 +7,4 @@ Homework 3 - Stacks;
 Homework 4 - Queues;
 Homework 5 - Trees;
 Homework 6 - Hashtables;
-Homework 7 - Graphs;
+Homework 7 - Graphs
